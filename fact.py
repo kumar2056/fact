@@ -1,4 +1,4 @@
-a=int(input("enter the value"))
+a=int(input())
 b=1
 while (a!=0):
     b=a*b
